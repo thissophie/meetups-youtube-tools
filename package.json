@@ -9,14 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "google-auth-library": "^9.0.0",
-    "googleapis": "^125.0.0",
-    "graphql-request": "^6.0.0",
+    "google-auth-library": "^10.0.0",
+    "googleapis": "^167.0.0",
+    "graphql-request": "^7.0.0",
     "html2plaintext": "^2.1.2",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.35",
     "ramda": "^0.29.0",
-    "yargs": "^17.0.0"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "prettier": "^3.0.0",
